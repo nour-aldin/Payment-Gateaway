@@ -1,0 +1,35 @@
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.5;
+  font-family: 'Lilita One', cursive;
+}
+p{
+  font-family: 'Lilita One', cursive;
+  font-size: 3rem;
+  color: white;
+}
+body{
+  text-align: center;
+}
+/* Content */
+.container-fluid{
+  font-family: 'Lilita One', cursive;
+background-color: grey;
+padding: 7% 15%;
+}
+.img-1{
+  width:45%;
+  height: 10%;
+}
+.img-2{
+  width: 50%;
+}
+.img-3{
+  width:60%;
+}
+/* button */
+.don-btn{
+  margin-top:50px;
+
+}
+
+/* Donation Page */
